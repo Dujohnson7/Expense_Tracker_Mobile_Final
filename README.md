@@ -128,8 +128,8 @@ Description: Create and track savings goals with reminder date picker.
 Description: Visual spending reports with bar charts and category filters.
 
 - ![Reports All](screenshoot/REPORTALL.png)
-- ![Report Category](screenshoot/report_category.png)
-- ![Report Category Alt](screenshoot/reportcategory_2.png)
+- ![Report Category](screenshoot/REPORT_category.png) 
+- ![Report Category Alt](screenshoot/REPORTA_category2.png)
 
 
 ### 📚 Dependencies
