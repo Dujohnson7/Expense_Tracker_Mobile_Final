@@ -129,7 +129,7 @@ Description: Visual spending reports with bar charts and category filters.
 
 - ![Reports All](screenshoot/REPORTALL.png)
 - ![Report Category](screenshoot/report_category.png)
-- ![Report Category Alt](screenshoot/report_category_2.png)
+- ![Report Category Alt](screenshoot/reportcategory_2.png)
 
 
 ### 📚 Dependencies
